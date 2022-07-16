@@ -7,9 +7,11 @@ h1, h2 {
 }
 li{
     list-style-type:circle;
+    text-decoration: none;
 }
 body{
     background-color:#b5838d;
+    padding: 3%;
 }
 #nacionalidade{
     font-weight: bold;
@@ -17,20 +19,10 @@ body{
 #natural{
     font-style: italic;
 }
-.hards{
-    font-size: 20px;
-}
-.softs{
-    font-size: 30px;
-}
 #imag{
     top:50px;
     padding: 2px;
     border-radius: 50%;
-    background-color:#6d6875;
-   
-
-
 }
 #imag, #description{
     width: 35%;
@@ -54,4 +46,10 @@ div:nth-of-type(1){
 #AI{
     top:5px;
     font-size: medium;
+}
+ul li:nth-child(odd){
+    text-decoration: underline;
+}
+ul li:nth-child(even){
+    font-style: italic;
 }
