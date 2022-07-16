@@ -21,21 +21,19 @@ body{
     font-style: italic;
 }
 #imag{
-    top:10px;
-    padding: 2px;
+    top:50%;
     border-radius: 50%;
+    float:right;
 }
 #imag, #description{
     width: 35%;
     display:inline-block;
     text-align: center;
 }
-#description{
-    float:right; 
+#description{ 
     width: 60%;
     margin-right:10px;
     text-align:center;
-
 }
 #Gabriela{
     border-radius: 50%;
