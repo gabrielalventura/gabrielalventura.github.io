@@ -23,4 +23,10 @@ body{
 .softs{
     font-size: 30px;
 }
-
+#imag, #description{
+    width: 50%;
+    display:inline-block;
+}
+#description{
+    float:right;
+}
