@@ -1,0 +1,26 @@
+
+h1, h2 {
+    font-family: Nanum Gothic, sans-serif;
+}
+#QSE, li{
+    font-family: Quicksand, sans-serif;
+}
+li{
+    list-style-type:circle;
+}
+body{
+    background-color:#deaaff;
+}
+#nacionalidade{
+    font-weight: bold;
+}
+#natural{
+    font-style: italic;
+}
+.hards{
+    font-size: 20px;
+}
+.softs{
+    font-size: 30px;
+}
+
