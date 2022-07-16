@@ -23,10 +23,22 @@ body{
 .softs{
     font-size: 30px;
 }
+#imag{
+    top:50px;
+}
 #imag, #description{
-    width: 50%;
+    width: 35%;
     display:inline-block;
+    text-align: center;
 }
 #description{
-    float:right;
+    float:right; 
+    width: 60%;
+    margin-right:10px;
+}
+#Gabriela{
+    border-radius: 50%;
+}
+#description #QSE{
+    margin-left: 0px;
 }
