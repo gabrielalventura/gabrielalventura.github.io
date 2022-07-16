@@ -42,3 +42,10 @@ body{
 #description #QSE{
     margin-left: 0px;
 }
+div:nth-of-type(1){
+    text-align: center;
+}
+#AI{
+    top:5px;
+    font-size: medium;
+}
