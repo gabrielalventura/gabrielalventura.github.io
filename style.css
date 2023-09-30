@@ -10,7 +10,7 @@ li{
    
 }
 body{
-    background-color:#b5838d;
+    background-color:#faf9f9;
     padding: 1%;
     margin-top: 0%;
 }
@@ -58,5 +58,5 @@ a:visited{
 }
 #nome{
     font-size: 50px;
-    text-shadow: grey 4px 6px 4px;
+    text-shadow: grey 6px 10px 6px;
 }
